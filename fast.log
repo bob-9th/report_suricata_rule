@@ -1,0 +1,21 @@
+01/08/2021-10:09:57.378930  [**] [1:2013028:5] ET POLICY curl User-Agent Outbound [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.219.116:59004 -> 175.213.35.39:80
+01/08/2021-10:09:57.378930  [**] [1:10000:1] HTTP test.gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:59004 -> 175.213.35.39:80
+01/08/2021-10:09:57.448888  [**] [1:10001:1] HTTPS www.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:35506 -> 125.209.222.142:443
+01/08/2021-10:09:57.666201  [**] [1:10002:1] HTTPS www.google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:51342 -> 172.217.163.228:443
+01/08/2021-10:09:57.844564  [**] [1:10003:1] HTTPS github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:48340 -> 15.164.81.167:443
+01/08/2021-10:09:58.136307  [**] [1:10004:1] HTTPS nlog.dev access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:55968 -> 104.24.115.155:443
+01/08/2021-10:09:58.980442  [**] [1:10005:1] HTTPS t.me access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:38776 -> 149.154.167.99:443
+01/08/2021-10:09:59.406927  [**] [1:10006:1] HTTPS www.youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:34216 -> 172.217.161.174:443
+01/08/2021-10:10:00.117037  [**] [1:10007:1] HTTPS www.acmicpc.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:46640 -> 3.113.117.161:443
+01/08/2021-10:10:01.252621  [**] [1:10008:1] HTTPS codeforces.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:40886 -> 81.27.240.126:443
+01/08/2021-10:10:02.615121  [**] [1:10009:1] HTTPS www.office.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:46276 -> 13.107.6.156:443
+01/08/2021-10:10:02.848890  [**] [1:10010:1] HTTPS koi.or.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:54126 -> 104.27.189.20:443
+01/08/2021-10:10:05.508779  [**] [1:10011:1] HTTPS codeup.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:47148 -> 221.167.103.200:443
+01/08/2021-10:10:05.624965  [**] [1:10012:1] HTTPS www.kitribob.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:54448 -> 211.115.80.131:443
+01/08/2021-10:10:05.756912  [**] [1:10013:1] HTTPS nnnlog.tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:36448 -> 211.231.99.250:443
+01/08/2021-10:10:06.296206  [**] [1:10014:1] HTTPS cloud.mongodb.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:55226 -> 34.230.213.36:443
+01/08/2021-10:10:06.570013  [**] [1:10015:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:58460 -> 219.240.13.141:443
+01/08/2021-10:10:06.650832  [**] [1:10016:1] HTTPS tcpschool.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:43404 -> 222.231.25.75:443
+01/08/2021-10:10:06.958539  [**] [1:10017:1] HTTPS atcoder.jp access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:36840 -> 54.178.95.195:443
+01/08/2021-10:10:07.311508  [**] [1:10018:1] HTTPS gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:59926 -> 172.65.251.78:443
+01/08/2021-10:10:07.779475  [**] [1:10019:1] HTTPS solved.ac access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.219.116:55346 -> 172.67.128.126:443
